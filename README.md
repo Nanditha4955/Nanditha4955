@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nanditha4955/MyPortfolio/main/public/banner.svg" alt="Nanditha M Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nanditha4955/MyPortfolio/main/public/banner.png" alt="Nanditha M Banner" width="100%" />
 
   <br />
 
