@@ -1,104 +1,58 @@
-# Hi, I'm Nanditha M 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nanditha4955/MyPortfolio/main/public/banner.svg" alt="Nanditha M Banner" width="100%" />
 
-### 💻 Aspiring Full Stack Developer | B.Tech Computer Science Graduate
+  <br />
 
-I'm a Computer Science and Engineering graduate passionate about building web applications, developing user-friendly interfaces, and solving real-world problems through technology.
+  <p align="center">
+    <b>Aspiring Full Stack Developer &bull; Computer Science (2026)</b>
+  </p>
 
-I have hands-on experience working with frontend technologies, backend development, databases, and CRM applications. I'm continuously learning and improving my skills to build efficient, scalable, and maintainable software solutions.
-
----
-
-### 🚀 Technical Skills
-
-**Programming Languages**
-- JavaScript (ES6+), Java, Python, PHP, C
-
-**Frontend Development**
-- React.js, HTML5, CSS3, Tailwind CSS
-- Figma (UI/UX Design)
-
-**Backend Development & APIs**
-- Node.js, Express.js, PHP
-- RESTful APIs, Firebase
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, SQL
-
-**Tools & Platforms**
-- Git, GitHub, VS Code, XAMPP, Apache, MySQL Workbench
-
-**Currently Learning**
-- Next.js
-- TypeScript
+  <p align="center">
+    <a href="https://nanditha4955.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/Nanditha2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mnanditha186@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://nanditha4955.github.io/MyPortfolio/Nanditha_M_Resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  </p>
+</div>
 
 ---
 
-### 💼 Experience
+### 💻 Technical Expertise & Focus
 
-**Software Developer Intern – INDBIN Fintech Services LLP**
-
-*August 2026 – Present*
-
-- Worked on a PHP and MySQL-based CRM platform.
-- Worked with user accounts, roles, and role-based access.
-- Supported CRM modules and database operations.
-- Troubleshot issues across frontend and database layers.
-- Collaborated with team members using Git and development tools.
-
----
-
-### 📌 Projects
-
-**1. Mock Interview Training Platform Using AI Agents**
-- Developed an AI-powered interview training platform using Python.
-- Analyzed speech and answers to generate interview feedback.
-- Applied Machine Learning and NLP techniques.
-
-**Technologies:** Python, Machine Learning, NLP
-
-**2. School Bus Tracking System**
-- Developed a real-time GPS-based bus tracking application.
-- Used Firebase for backend services and live data updates.
-
-**Technologies:** Java, Firebase, GPS
-
----
-
-### 🎓 Education
-
-**B.Tech – Computer Science and Engineering**  
-Mangalam College of Engineering | 2022–2026  
-CGPA: 7.53 / 10
-
-Minor Degree: Robotics and Automation
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚡ Frontend Engineering</h4>
+      <p>React JS, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Figma UI/UX, Responsive Design</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛠️ Backend & APIs</h4>
+      <p>Node.js, Express JS, PHP, RESTful APIs, Firebase Realtime Database, Authentication</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💾 Databases</h4>
+      <p>MySQL, PostgreSQL, MongoDB, SQL Optimization, DBMS Schemas, Workbench</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🚀 Featured Projects</h4>
+      <p><b>MyPortfolio</b> (React/Tailwind), <b>Expense Tracker</b> (React/Vite), <b>AI Mock Interview Platform</b> (Python/NLP)</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💼 Industry Experience</h4>
+      <p>Software Developer Intern at INDBIN CRM Fintech Services LLP (PHP, MySQL, Git)</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎓 Education & Certifications</h4>
+      <p>B.Tech CS (2026, CGPA 7.53), AWS Cloud Practitioner, Infosys MERN Stack</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📜 Certifications
-
-- MERN Stack & FSD – Infosys Springboard
-- AWS Cloud Practitioner Essentials – Amazon Web Services
-- Python for Data Science – NPTEL
-- Foundations of Prompt Engineering – Amazon Web Services
-
----
-
-### 🌱 Areas of Interest
-
-- Full Stack Web Development
-- Software Engineering
-- Web Application Development
-- Database Management
-- Problem Solving
-
----
-
-### 🤝 Let's Connect
-
-- **LinkedIn:** https://linkedin.com/in/Nanditha2004
-- **GitHub:** https://github.com/Nanditha4955
-- **Email:** mnanditha186@gmail.com
-
----
-
-⭐ *Always learning, building, and exploring new technologies.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanditha4955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05050f&title_color=38bdf8&icon_color=00f2fe&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanditha4955&theme=tokyonight&hide_border=true&background=05050f&stroke=05050f&ring=38bdf8&fire=c084fc&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
+</div>
